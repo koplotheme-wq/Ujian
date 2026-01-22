@@ -1,0 +1,11 @@
+{
+  "name": "anisa",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "wrangler": "4.60.0"
+  },
+  "scripts": {
+    "deploy": "wrangler deploy"
+  }
+}
